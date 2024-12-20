@@ -1,0 +1,46 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "f88e2bbeb198becbd91d28843f77bf56126895d4eeed1073879840af37eeacbe"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.13"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "gentools": {
+            "hashes": [
+                "sha256:75b7b0452691115ad11914e17c8c2b5f9b146b01f20167785e8b6d99b565d190",
+                "sha256:c692af51d5a8f7f3406ed8c39d6da686f4f2fe4dbfaa13ddb24035b0471d9305"
+            ],
+            "markers": "python_full_version >= '3.8.1' and python_full_version < '4.0.0'",
+            "version": "==1.2.2"
+        },
+        "quiz": {
+            "hashes": [
+                "sha256:c4e858e7ea4ee269d22210d0b5f0203847a475e687d4f5d81bcc6f0c1b713cce",
+                "sha256:d4d58c1ac196450e263a1e6a644ce2410cf6cdaa94982f19d936f3d4484eb6e3"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.7' and python_version < '4.0'",
+            "version": "==0.3.2"
+        },
+        "snug": {
+            "hashes": [
+                "sha256:771822da26a2e2cd4154a6e0358c3b2fda8c269925517158d83a3dbb9b913194",
+                "sha256:a5944a0ec113e7e1c8093b7ad6f534feee35647bece1b44620f2f27c578f91a8"
+            ],
+            "markers": "python_version >= '3.7' and python_version < '4.0'",
+            "version": "==2.4.0"
+        }
+    },
+    "develop": {}
+}
